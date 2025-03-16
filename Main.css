@@ -124,3 +124,13 @@ h2 {
     color: #000;
     align-content: center;
 }
+
+#logo {
+    align-items: center;
+    display: flex;
+}
+
+#logonavbar {
+    padding-right: 10px;
+}
+
