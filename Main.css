@@ -78,7 +78,6 @@ h2 {
     margin-bottom: 20px;
 }
 
-/* Produtos */
 .produto-lista {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -103,12 +102,10 @@ h2 {
     margin-bottom: 15px;
 }
 
-/* Contato */
 .contato a.btn {
     margin-top: 20px;
 }
 
-/* Rodapé */
 .footer {
     text-align: center;
     padding: 20px;
